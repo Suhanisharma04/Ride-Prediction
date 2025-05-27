@@ -2,6 +2,7 @@
 
 
 Overview
+
 A machine learning project aimed at predicting ride price based on various features such as distance, ride type, time, location, etc. This project showcases data preprocessing, model training, and evaluation techniques.
 
 Technologies Used

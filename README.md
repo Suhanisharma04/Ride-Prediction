@@ -9,31 +9,42 @@ Technologies Used
 
 Python:
 Pandas
+
 Scikit-learn
+
 Matplotlib
+
 Pickle
+
 Gradio
 
 
 Features:
 
 Data cleaning and preprocessing
+
 Feature engineering
+
 Model training using linear regression
+
 Model evaluation using RMSE and R² score
 
 
 How to Run:-
+
 Clone the repository:
 git clone https://github.com/Suhanisharma04/Ride-Prediction.git
 
 Navigate to the project directory:
+
 cd Ride-Prediction
 
 Install required packages:
+
 pip install
 
 Run the main script:
+
 python rideshare.py
 
 

@@ -9,29 +9,19 @@ A machine learning project aimed at predicting ride price based on various featu
 Technologies Used
 
 Python:
-
-Pandas
-
-Scikit-learn
-
-Matplotlib
-
-Pickle
-
+Pandas,
+Scikit-learn,
+Matplotlib,
+Pickle,
 Gradio
-
 
 
 Features:
 
-Data cleaning and preprocessing
-
-Feature engineering
-
-Model training using linear regression
-
+Data cleaning and preprocessing,
+Feature engineering,
+Model training using linear regression,
 Model evaluation using RMSE and R² score
-
 
 
 How to Run:-

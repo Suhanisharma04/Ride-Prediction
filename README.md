@@ -20,7 +20,7 @@ This project aims to model and predict the price of ride-share services (like Ub
 
 ---
 
-## Live Demo (Optional)
+## Live Demo
 
 You can run this app locally by installing the dependencies and executing the Python script.  
 Gradio will generate a shareable link after launching.

@@ -31,8 +31,8 @@ Gradio will generate a shareable link after launching.
 
 This ride-share price prediction system estimates the fare of a trip based on input details such as time, distance, visibility, ride type, and more. It was built using:
 
-- **Python for backend logic and model development**
-- **pandas, scikit-learn, and matplotlib** for data cleaning, analysis, and machine learning
+- **Python** for backend logic and model development
+- **Pandas, Scikit-learn, and Matplotlib** for data cleaning, analysis, and machine learning
 - **Gradio** for creating an interactive and user-friendly web interface
 - **Pickle** for model persistence
 
